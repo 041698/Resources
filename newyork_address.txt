@@ -1,0 +1,114 @@
+Chestnut Road:Brooklyn:NY:11228
+Leatherwood Street:North Tonawanda:NY:14120
+Ohio Street:Troy:NY:12180
+Roehampton Drive:Astoria:NY:11103
+Bayberry Ave.:Middletown:NY:10940
+Garfield Ave.:Yonkers:NY:10701
+Sleepy Hollow Street:Bronx:NY:10469
+East Mountainview Road:New York:NY:10003
+W. Manor St.:Bronx:NY:10465
+Harvey Court:Staten Island:NY:10312
+West Vale Street:Auburn:NY:13021
+East Nichols Court:South Ozone Park:NY:11420
+Hawthorne Drive:Bronx:NY:10452
+South Pilgrim Street:Massapequa:NY:11758
+Kent St. Apt I:Brooklyn:NY:11201
+Gulf Drive:Brooklyn:NY:11221
+Airport Court:Bronx:NY:10465
+W. Argyle Circle:Astoria:NY:11105
+South Edgewater Street:Spring Valley:NY:10977
+North Ocean Street:Brooklyn:NY:11224
+Young Ave.:Brooklyn:NY:11219
+Franklin St.:Flushing:NY:11354
+Shipley Street:Brooklyn:NY:11216
+Cemetery Road:South Ozone Park:NY:11420
+Winding Way Lane:New York:NY:10011
+Main St.:Brooklyn:NY:11203
+Bayberry Lane:Corona:NY:11368
+Front Rd.:Brooklyn:NY:11210
+Anderson Ave.:Brentwood:NY:11717
+W. Olive Street:Fairport:NY:14450
+Grove Ave.:Brooklyn:NY:11236
+Bowman St.:Staten Island:NY:10312
+Poor House St.:Brooklyn:NY:11230
+Cherry Hill St.:Brooklyn:NY:11204
+Evergreen Avenue:New York:NY:10034
+Gulf St.:Woodside:NY:11377
+Del Monte St.:Brooklyn:NY:11225
+Oak Valley Lane:Patchogue:NY:11772
+Sherwood Ave.:Brooklyn:NY:11212
+East Cardinal Street:Tonawanda:NY:14150
+Amerige Dr.:Forest Hills:NY:11375
+Bridgeton Avenue:West Babylon:NY:11704
+Bishop Rd.:Woodside:NY:11377
+N. Marvon Ave.:Brooklyn:NY:11207
+Victoria Street:Brooklyn:NY:11220
+W. 3rd Ave.:Bronx:NY:10463
+Thomas Drive:Poughkeepsie:NY:12603
+West Richardson Ave.:Buffalo:NY:14221
+Myrtle Avenue:Brentwood:NY:11717
+Madison Ave.:Newburgh:NY:12550
+River St.:New York:NY:10040
+South Ridge Ave.:Brooklyn:NY:11208
+Adams Dr.:Hempstead:NY:11550
+S. Church St.:Brooklyn:NY:11210
+Fulton St.:Brooklyn:NY:11224
+Deerfield St.:Buffalo:NY:14221
+North Green Lake Road:Auburn:NY:13021
+Tunnel Drive:Rego Park:NY:11374
+S. Warren St.:Brooklyn:NY:11233
+Cedar Swamp Street:Fresh Meadows:NY:11365
+Rockaway St.:Flushing:NY:11354
+Plymouth Ave.:Brooklyn:NY:11221
+Garfield Drive:Brooklyn:NY:11203
+Tailwater Court:Ithaca:NY:14850
+Ridgeview Drive:Brooklyn:NY:11204
+Devonshire Rd.:Staten Island:NY:10312
+Joy Ridge Drive:Brooklyn:NY:11203
+Sheffield Street:Massapequa:NY:11758
+Brown Rd.:Astoria:NY:11103
+Coffee Ave.:Hamburg:NY:14075
+Academy Rd.:Hempstead:NY:11550
+Old Charles Ave.:New York:NY:10016
+Fieldstone Dr.:Rochester:NY:14609
+North Maple St.:Brooklyn:NY:11207
+El Dorado Drive:Westbury:NY:11590
+Eagle Circle:Hempstead:NY:11550
+53rd St.:New York:NY:10029
+Wood Rd.:New York:NY:10031
+W. Wrangler Court:Brooklyn:NY:11221
+North Dr.:Bronx:NY:10457
+Yukon Drive:Corona:NY:11368
+Sugar Rd.:Brooklyn:NY:11210
+Rock Maple St.:Bronx:NY:10466
+Sugar St.:Bronx:NY:10462
+Academy Rd.:Lockport:NY:14094
+Summer Ave.:Ridgewood:NY:11385
+Roosevelt Road:South Ozone Park:NY:11420
+Boston Ave.:Bronx:NY:10463
+Green Hill Ave.:Far Rockaway:NY:11691
+Front Circle:Brooklyn:NY:11235
+Lafayette Court:Bronx:NY:10452
+E. Indian Spring Rd.:Corona:NY:11368
+Strawberry Road:New York:NY:10003
+Littleton Street:Ridgewood:NY:11385
+Country Club Dr.:Flushing:NY:11354
+Richardson Rd.:Westbury:NY:11590
+B Manchester Street:New York:NY:10025
+Tarkiln Hill St.:North Tonawanda:NY:14120
+Ivy Street:Bronx:NY:10458
+James Drive:Woodside:NY:11377
+North Market Rd.:Brooklyn:NY:11230
+Bayport Lane:Brooklyn:NY:11234
+Wellington Court:Spring Valley:NY:10977
+James Street:Brooklyn:NY:11230
+Shady Ave.:Staten Island:NY:10306
+Selby Court:New York:NY:10128
+Fifth Lane:Brooklyn:NY:11223
+West Road:Ridgewood:NY:11385
+Fremont Court:New York:NY:10024
+Grove Street:Brooklyn:NY:11209
+South Clark Road:Jamaica:NY:11435
+Spruce Street:Far Rockaway:NY:11691
+West Lilac Street:New York:NY:10011
+Depot Drive:Brooklyn:NY:11230
